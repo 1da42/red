@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 
 import hero from "../assets/hero.png";
 import icon from "../assets/icon.png";
-import Fill from "../assets/fill.png";
+import Fill from "../assets/Fill.png";
 import usdt from "../assets/usdt.png";
 import usdc from "../assets/usdc.png";
 import busd from "../assets/busd.png";
