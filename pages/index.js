@@ -97,6 +97,7 @@ export default function Home() {
                 src={usdt}
                 width={84}
                 height={84}
+                alt=""
                 className="flex-grow-0 flex-shrink-0 mt-[50px] object-cover"
               />
             </div>
@@ -307,7 +308,7 @@ export default function Home() {
                 JOIN COMMUNITY{" "}
               </a>
               <div className="ml-4 mt-2">
-                <Image src={arrow} width={22} height={15} />
+                <Image src={arrow} width={22} height={15} alt="" />
               </div>
             </div>
           </div>
@@ -336,7 +337,7 @@ export default function Home() {
           <div className={style.mainFaq}>
             <div className={style.mainT}>
               <div className="text-white py-[10px]">
-                <Image src={icon2} width={32} height={32} />
+                <Image src={icon2} width={32} height={32} alt="" />
                 <p className="text-xl">How do I know how much to deposit?</p>
                 <div className="mt-[10px]">
                   READYfi has three (3) Plans available for staking deposits.
@@ -356,7 +357,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="text-white py-[10px]">
-                <Image src={icon2} width={32} height={32} />
+                <Image src={icon2} width={32} height={32} alt="" />
                 <p className="text-xl">How often do I get my profits back?</p>
                 <div className="mt-[10px]">
                   Payment of interests for all individual Plans are done DAILY.
@@ -375,7 +376,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="text-white py-[10px]">
-                <Image src={icon2} width={32} height={32} />
+                <Image src={icon2} width={32} height={32} alt="" />
                 <p className="text-xl">How do I receive my profits?</p>
                 <p className="font-bold mt-[10px]">
                   All profits gotten or earned are sent straight
@@ -386,7 +387,7 @@ export default function Home() {
             </div>
             <div className={style.mainB}>
               <div className="text-white py-[10px]">
-                <Image src={icon2} width={32} height={32} />
+                <Image src={icon2} width={32} height={32} alt="" />
                 <p className="text-xl">How do I get referral bonuses?</p>
                 <div className="mt-[10px]">
                   Referral bonuses are earned every time you refer
@@ -412,7 +413,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="text-white py-[10px]">
-                <Image src={icon2} width={32} height={32} />
+                <Image src={icon2} width={32} height={32} alt="" />
                 <p className="text-xl">How long does a profit cycle last?</p>
                 <p className="mt-[10px] font-bold">
                   Your profit cycle per deposit, lasts for 20 weeks
